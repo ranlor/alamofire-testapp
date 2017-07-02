@@ -342,7 +342,7 @@
 				DEVELOPMENT_TEAM = 8EV57SPBB5;
 				INFOPLIST_FILE = testApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = autodesk.testApp;
+				PRODUCT_BUNDLE_IDENTIFIER = hhh.testApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -356,7 +356,7 @@
 				DEVELOPMENT_TEAM = 8EV57SPBB5;
 				INFOPLIST_FILE = testApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = autodesk.testApp;
+				PRODUCT_BUNDLE_IDENTIFIER = hhh.testApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
